@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* 1. Background color */
+        body {
+            background-color: #FFC0CB;
+        }
+
+        /* 2. Text color */
+        p {
+            color: #0000FF;
+        }
+
+        /* 3. Text alignment center */
+        .center-text {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <!-- 4. A link to your genre presentation -->
+    <p class="center-text">
+        <a href="YOUR_GENRE_PRESENTATION_LINK">Link to Genre Presentation</a>
+    </p>
+
+    <!-- 5. An image of a fun game -->
+    <div class="center-text">
+        <img src="GAME_IMAGE_URL" alt="Fun Game">
+    </div>
+
+    <!-- 6. A paragraph about the fun game -->
+    <p class="center-text">
+        Here's a paragraph about this fun game. You can describe the game and its features here.
+    </p>
+</body>
+</html>
