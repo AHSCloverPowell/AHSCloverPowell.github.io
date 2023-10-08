@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+    <title>Your Website</title>
+</head>
+<body>
+    <!-- Navigation Menu -->
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="coaching.html">Coaching/Mechanics</a></li>
+            <li><a href="blog.html">Blog</a></li>
+        </ul>
+    </nav>
+
+    <!-- Homepage Content -->
+    <div class="content">
+        <!-- Replace this with your homepage content from Google Sites -->
+        <h1>Welcome to Your Website</h1>
+        <p>This is your homepage content.</p>
+    </div>
+
+    <!-- Coaching/Mechanics Page Content -->
+    <div class="content">
+        <!-- Replace this with your Coaching/Mechanics page content -->
+        <h1>Coaching/Mechanics</h1>
+        <p>This is the Coaching/Mechanics page content.</p>
+    </div>
+
+    <!-- Blog Page Content -->
+    <div class="content">
+        <!-- Replace this with your Blog page content -->
+        <h1>Blog</h1>
+        <p>This is the Blog page content.</p>
+    </div>
+</body>
+</html>
